@@ -10,7 +10,7 @@ def third_challenge
         :age => "54"
         },
       :hero => {
-        :name => "Romeo Montague",
+        :name => "Romeo",
         :age => "15",
         :status => "alive"
         },
@@ -26,7 +26,7 @@ def third_challenge
         :age => "51"
         },
       :heroine => {
-        :name => "Juliet Capulet",
+        :name => "Juliet",
         :age => "15",
         :status => "alive"
         },
